@@ -1,4 +1,4 @@
 {
 	"flags": "-oiahE",
-	"pattern": "https?://[^\"\\'> ]+"
+	"pattern": "https?://[^\"\\"> ]+"
 }

@@ -3,7 +3,7 @@
     "patterns": [
         "location(\\.href)?( ?=|\\.replace)",
         "eval\\(",
-        "(setTimeout|setInterval)\\([\\\"']",
-        "new Function\\([\\\"']"
+        "(setTimeout|setInterval)\\([\\\""]",
+        "new Function\\([\\\""]"
     ]
 }
